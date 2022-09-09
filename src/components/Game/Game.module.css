@@ -1,0 +1,14 @@
+.table {
+  width: max-content;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+}
